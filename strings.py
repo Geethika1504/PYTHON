@@ -245,3 +245,6 @@ hello sita hello ram
 >>> print(f"hello {a}\nhello {b}")
 hello sita
 hello ram
+a="1234"
+a.isnumber()
+a
